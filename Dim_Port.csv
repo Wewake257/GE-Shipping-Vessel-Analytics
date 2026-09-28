@@ -1,0 +1,6 @@
+Port_ID,Port_Name,Country,Region,Avg_Waiting_Hours
+PRT_001,Ras Tanura,Saudi Arabia,Middle East Gulf,18.5
+PRT_002,Sikka (Jamnagar),India,West Coast India,12.0
+PRT_003,Singapore,Singapore,Southeast Asia,24.0
+PRT_004,Mundra,India,West Coast India,14.2
+PRT_005,Richards Bay,South Africa,Africa,36.0

@@ -1,0 +1,7 @@
+Vessel_ID,Vessel_Name,Category,Sub_Class,DWT,Built_Year,Age,Flag
+VSL_001,Jag Lok,Crude Tanker,Suezmax,158000,2012,14,India
+VSL_002,Jag Lalit,Crude Tanker,Aframax,105000,2017,9,India
+VSL_003,Jag Aparna,Product Tanker,MR2,49000,2019,7,India
+VSL_004,Jag Anand,Dry Bulk,Capesize,180000,2011,15,India
+VSL_005,Jag Rajiv,Dry Bulk,Supramax,56000,2015,11,India
+VSL_006,Jag Vayu,Gas Carrier,VLGC LPG,50000,2020,6,India
